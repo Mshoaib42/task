@@ -1,3 +1,4 @@
+Q: How would you deploy your application to the cloud ?
 1. Choose a Cloud Provider:
 Select cloud like AWS, Azure, or GCP based on business needs, scalability, and cost.
 2. Set Up Infrastructure
